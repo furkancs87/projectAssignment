@@ -1,0 +1,6 @@
+Proje, Docker üzerinden çalışmaktadır. Oluşturduğumuz mikro hizmet mimarilerinden Phone büyük kapsamlı mikroservis mimarisi tamamlanmış olup,
+Order ve Common isimli küçük kapsamlı mimarilerimiz de zaman kısıtlaması sebebi ile henüz tamamlanamamıştır. Ancak, çok kısa süre içerisinde tamamlanması mümkündür.
+Postman ile herhangi bir URL'ye istekte bulunup Mongo (NoSql veritabanı) veritabanımızı görüntüleyebiliyoruz.
+Aynı zamanda Robo3t MongoDb User Interface uygulaması ile MongoDb mizi istediğimiz şekilde görüntüleyebiliyoruz.
+En sonunda da Mikroservislerimiz Docker üzerinden konuşturulup sonlandırılabilecektir.
+Projemiz ile ilgili çıktılar .rar dosyası içindeki resimlerde (png dosyalarında da) mevcuttur.
